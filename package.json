@@ -1,0 +1,21 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "learning ci/cd pipeline",
+  "homepage": "https://github.com/bikramdhami0100/devops_basic#readme",
+  "bugs": {
+    "url": "https://github.com/bikramdhami0100/devops_basic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikramdhami0100/devops_basic.git"
+  },
+  "license": "ISC",
+  "author": "bikram dhami",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test":"node test.js"
+  }
+}
