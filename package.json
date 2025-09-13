@@ -15,7 +15,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js",
+    "dev": "node index.js",
     "test":"node test.js"
   }
 }
